@@ -8,4 +8,4 @@ Two fault gouge layers are sheared simultaneously while subjected to a constant 
 
 Los Alamos' initial work showed that the prediction of laboratory earthquakes from continuous seismic data is possible in the case of quasi-periodic laboratory seismic cycles. In this competition, the team has provided a much more challenging dataset with considerably more aperiodic earthquake failures.
 
-To solve this challenge i generated a set of features and used that in XGBosstRegressor.
+To solve this challenge i generated a set of features and used that in XGBosstRegressor. Got 1535 rank out of 4540.
